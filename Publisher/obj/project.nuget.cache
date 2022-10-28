@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "suChoKUUD/Ugnrrc6ceO3UXeWwjstaT/GteKzIsCRdXXDK0vHCFVwWZREFX2G3sKuHc2zwzZNPAZx0iROWwOAg==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\User\\Desktop\\Desenvolvimento\\Cursos\\SQS C#\\Publisher\\Publisher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\awssdk.core\\3.7.100.3\\awssdk.core.3.7.100.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\awssdk.sqs\\3.7.100.3\\awssdk.sqs.3.7.100.3.nupkg.sha512"
+  ],
+  "logs": []
+}
